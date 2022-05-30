@@ -1,4 +1,4 @@
-# Animal-Detection-catORdog-CNN
+# Animal-Detection-CatORdog-TensorFlow,CNN
 
 
 A beginner friendly CNN based projects with a modern day Deep Learning heart beating on TensorFlow. It can detect animal image and classify them in certain categories.
